@@ -1,0 +1,89 @@
+6: {'#accountingterms': null, text: 'Hello! Some example text has been added to help
+    you start and you can erase it whenever you like. The example text and more documentation
+    is available under "Help" -> "Contents".
+
+
+    === Preview ===
+
+    There are two modes in RedNotebook, the __edit__ mode and the __preview__ mode.
+    Click on Edit above to see the difference.
+
+
+    === Tags ===
+
+    Tagging is easy. Just use #hashtags like on twitter.
+
+
+    === Save and Export ===
+
+    Everything you enter will be saved automatically at regular intervals and when
+    you exit the program. To avoid data loss you should backup your journal regularly.
+    "Backup" in the "Journal" menu saves all your entered data in a zip file. In the
+    "Journal" menu you also find the "Export" button. Click on "Export" and export
+    your diary to Plain Text, PDF, HTML or Latex.
+
+
+    If you encounter any errors, please drop me a note so I can fix them. Any feedback
+    is appreciated.
+
+
+    Have a nice day!'}
+7: {'#accountingterms': null, text: "=== Basics of Accounting ===\n---------------------------------------\n**Accounting
+    Terms** #accountingterms\n+ Book Keeping = process of recording business transaction
+    and only those which could be expressed in monetary terms.\\\\\nIt is a part of
+    accounting. \\\\\nIncludes\n + recording in Journal\n + posting in ledger\n +
+    balancing accounts (trial balance)\\\\\n+ Accounting = system of collecting &
+    processing financial information so as to enable determine financial position
+    of a business entity.\\\\\nAmerican Accounting Association defines accounting=
+    “the process of identifying, measuring and communicating economic information
+    to permit informed judgements and decision by users of the information”. \\\\\n__Process
+    of Accounting__ :-\n\\\\\n  - step 1. INPUT = Business Transactions in monetary
+    terms\\\\\n  - step 2. PROCESS \\\\\n   - Identify(debit/credit),\n   - record(journal),
+    \n   - classify(ledger and trial balance),\n   - summarizing(trading, p&l, balance
+    sheet),\n   - analysing(create relationship between diiferent elements of p&l
+    and B/S like calculating ratios), \n   - interpretation (interpreting the relationship
+    between elements to understand financial position of firm),  \n   - communication(is
+    to inform the users \\\\\n  - step 3. INFORMATION TO USERS\\\\\n+ Accountancy
+    = systematic knowledge of accounting. \\\\\nIt explains “why to do” and “how to
+    do” of various aspects of accounting. \\\\ \nIt tells us why & how to prepare
+    the books of accounts & summarize the accounts. \\\\\n[accounting vs book keeping.odg
+    \"\"file:///home/nidhipankajsharma/Documents/Finance/FinanceNotes/accounting vs
+    book keeping.odg\"\"]\n - __Users of a/cing information__\n  + Internal users:
+    Internal users are those individuals or groups who are within the organisation
+    like owners, management, employees and trade unions.\n  + External users: External
+    users are those individuals or groups who are outside the organisation like creditors,
+    investors,\nbanks and other lending institutions, present and potential investors,
+    Government, tax authorities, regulatory agencies and researchers.\n - __Branches
+    of Accounting__ \n  + Financial A/Cing = recording of transaction\n  + Cost A/Cing
+    = classification and calculation of different costs\n  + Management A/Cing = takes
+    input frm (1) & (2) branches and helps managers in controlling, planning and decision
+    making. \n+ Final Accounts => trading account, profit&loss account and balance
+    sheet \\\\\n - __Need of final accounts__ => is to know\n  + gross profit/ loss
+    and net profit/loss\n  + financial position (assets and liabilities)\n  + calculation
+    of income tax & other taxes\n  + amount receivable&payable\n  + forecating of
+    financial statement\n  + sources of funds and their application\\\\\n+ Cost v/s
+    Expense => \\\\ \n\\\\\nExpense = cost for conducting main revenue-generating
+    activity of a business (cost of making products) = cost of goods sold \\\\ \n\\\\\nCost
+    = expense + other costs which are not directly related to the main revenue gemnerating
+    activity of business.\\\\\n\\\\\nThus, EXPENSE (COGS) is the direct cost related
+    to the production of goods sold by the business entity. This may include cost
+    of RM + cost of direct labour + any depreciation amount of asset (for those assets
+    directly requird for manufacturing that product).\n\\\\\n Eg:\n + if a furniture
+    business has procured wood worth rs 500 out of which wood worth rs 400 is used
+    to make the furniture then only rs 400 is expense while rs 100 is the asset because
+    it could be used later to make furniture.\n + in a garment business, if i have
+    purchased rs. 10,000 worth of 5 rolls of silk cloth (so per roll cost is rs. 2000)
+    and only 4 rolls are used. also, the labour employed is rs. 3000 out of which
+    direct labour employed is rs.500.  So rs. 8500 is expense (i.e used cloth and
+    cost of direct labour) while the rest rs. 4500 (i.e  cost of 1 roll and cost of
+    indirect labour ) is included in other costs.\\\\\n+ Revenue = total income before
+    expenses. \\\\\nRevenue include\n + Operating Revenue (from main activity of business)\n
+    + Interest income\n + Service Revenue\n + Fees Earned\n+ Transactions =  activities
+    of a business involving transfer of money / goods / services between 2  persons
+    / 2 accounts. \\\\\nTypes :\n + Cash = cash rcvd/paid immediately\n + Credit =
+    rcpt of cash / payment in cash is delayed\n+ Proprietor = person/s owning a business\n+
+    Capital = the amount of money invested in a business (increases with profit and
+    decreases with loss). Its a liability (because business and businessman are separate
+    entities and hence business owes this amount to its owner)\n\n\n\t\n\n====================\n\n===
+    Work ===\nHere goes the first entry. It is about #work.\n\n====================\n\n===
+    Family ===\nHere comes the entry about my #family."}
